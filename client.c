@@ -1,6 +1,3 @@
-/**
- * Example client program that uses thread pool.
- */
 
 #include <stdio.h>
 #include <unistd.h>
